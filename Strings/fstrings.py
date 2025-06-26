@@ -9,5 +9,5 @@ print(f"You are Welcome Mr.{name}")
 
 
 a = "India"
-b = "Russia"
+b = "USA"
 print(f"{a} and {b} are very Good Friends and have a very Good Friendship from Years.")
